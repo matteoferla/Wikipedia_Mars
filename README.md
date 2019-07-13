@@ -9,6 +9,8 @@ The data was further polished to extract x, y style coordinates from the `coord`
 
 For notes on wikiparsing see [https://blog.matteoferla.com/2019/07/wikipedia-datamining.html](https://blog.matteoferla.com/2019/07/wikipedia-datamining.html).
 
+![mars](mars.jpg)
+
 The reason why this came about was because of my previous graph of the planets, which shows Pluto as more popular than Mars.
 
 ![Planets](planets.png)
